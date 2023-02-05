@@ -1,0 +1,17 @@
+{
+  "name": "ms-authentication",
+  "version": "1.0.0",
+  "description": "Microservice criado durante o curso de aplicação arquitetural REST com Node.js",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./",
+    "build": "tsc -p ."
+  },
+  "author": "Thalisson Cabral",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.11.19",
+    "typescript": "^4.9.5"
+  }
+}
